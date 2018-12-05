@@ -1,0 +1,22 @@
+/*
+Theme Name:   sydney child theme
+Description:  Write here a brief description about your child-theme
+Author:       banjokb
+Author URL:   Write here the author's blog or website url
+Template:     sydney
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  sydney-child
+*/
+
+/* Write here your own personal stylesheet */
+
+#masthead {
+    opacity: 1;
+    background-color: #252525;
+}
+#colophon {
+    display: none;
+}
+
